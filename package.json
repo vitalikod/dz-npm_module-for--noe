@@ -1,0 +1,23 @@
+{
+  "name": "wether_module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalikod/dz-npm_module-for--noe.git"
+  },
+  "author": "vit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitalikod/dz-npm_module-for--noe/issues"
+  },
+  "homepage": "https://github.com/vitalikod/dz-npm_module-for--noe#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
